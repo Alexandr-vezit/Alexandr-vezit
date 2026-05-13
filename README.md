@@ -1,4 +1,5 @@
-## Hi there 👋
+## Всем Привет👋
+Меня завут Александр, я QA Engineer
 
 <!--
 **Alexandr-vezit/Alexandr-vezit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
